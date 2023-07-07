@@ -5,7 +5,7 @@ My name is **Lê Thị Thu Trang** and I'm learning to be **front-end developer*
 
 I'm currently living in Ho Chi Minh city and studying at University of Information Technology, VNU-HCM.
 
-- 🌱 I’m currently learning Javascript and Reactjs.
+- 🌱 I’m currently learning Javascript and ReactJs.
 - 📫 How to reach me: 
   
 <div align="center">
